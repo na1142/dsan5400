@@ -1,0 +1,1 @@
+The shape of the graph is linear on a log-log scale with tails that are typical in graphs depicting Zipf's Law. The graph signifies that in Dostoevsky's Crime and Punishment (and broadly speaking in any piece of literature or text) there are only a small number of words that are used very frequently, whereas a large number of words that appear very infrequently.
