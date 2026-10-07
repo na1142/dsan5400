@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: naive_bayes
+Version: 0.0.1
+Summary: Naive Bayes package
+Author: Naufal Alavi
+Author-email: na1142@georgetown.edu
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: autopep8; extra == "dev"
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: provides-extra
+Dynamic: requires-python
+Dynamic: summary
+
+This is the read me file
