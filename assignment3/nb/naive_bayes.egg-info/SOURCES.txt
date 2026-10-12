@@ -7,4 +7,8 @@ naive_bayes.egg-info/requires.txt
 naive_bayes.egg-info/top_level.txt
 nb/__init__.py
 nb/nb.py
+nb/bin/__init__.py
+nb/bin/main.py
+nb/utils/__init__.py
+nb/utils/load_data.py
 tests/test_naive_bayes.py
